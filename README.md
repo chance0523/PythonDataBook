@@ -13,5 +13,4 @@
 - ##### 2020.03.06 ~ 2020.03.07 : [5장. 우리나라 인구 소멸 위기 지역 분석](https://github.com/samuel950523/PythonDataBook/tree/master/5.Korean_Population_Warning)
 - ##### 2020.03.08 ~ 2020.03.10 : [6장. 19대 대선 결과 분석](https://github.com/samuel950523/PythonDataBook/tree/master/6.19th_Election_Result)
 - ##### 2020.03.13 : [7장. 시계열 데이터 다루기](https://github.com/samuel950523/PythonDataBook/tree/master/7.Time_Series_Data_Handle)
-- ##### [8장. 자연어 처리](https://github.com/samuel950523/PythonDataBook/tree/master/8.Natural_Language_Processing) : 2020.03.13
-- ##### [8장. 자연어 처리](https://github.com/samuel950523/PythonDataBook/tree/master/8.Natural_Language_Processing) : 2020.03.13
+- ##### [8장. 자연어 처리](https://github.com/samuel950523/PythonDataBook/tree/master/8.Natural_Language_Processing)
