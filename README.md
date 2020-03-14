@@ -5,9 +5,12 @@
 ### 2020.02.28 시작
 
 - ##### [1장. 서울시 구별 CCTV 현황](https://github.com/samuel950523/PythonDataBook/tree/master/1.Seoul_CCTV) - 2020.02.28
-  + ##### pandas 기초 - 2020.03.13
-  + ##### matplotlib 기초 - 2020.03.13
+  + ##### pandas - 2020.03.13
+  + ##### matplotlib - 2020.03.13
 - ##### [2장. 서울시 범죄 현황 분석](https://github.com/samuel950523/PythonDataBook/tree/master/2.Seoul_Crime) - 2020.02.29 ~ 2020.03.01
+  + ##### pivot table - 2020.03.14
+  + ##### seaborn - 2020.03.14 
+  + ##### folium - 2020.03.14
 - ##### [3장. 시카고 샌드위치 맛집 분석](https://github.com/samuel950523/PythonDataBook/tree/master/3.Chicago_Sandwich) - 2020.03.01 ~ 2020.03.05
 - ##### [4장. 셀프 주유소는 정말 저렴할까](https://github.com/samuel950523/PythonDataBook/tree/master/4.Self_Oil_Station) - 2020.03.01 ~ 2020.03.05
 - ##### [5장. 우리나라 인구 소멸 위기 지역 분석](https://github.com/samuel950523/PythonDataBook/tree/master/5.Korean_Population_Warning) - 2020.03.06 ~ 2020.03.07
